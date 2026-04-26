@@ -1,5 +1,29 @@
 
-<p align="left">Desenvolvedora em formação | Java | Estruturas de Dados | Interesse em IA e sistemas distribuídos.</p>
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Stefani and I'm from Brazil!</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Developer in training | Java | Data Structures | Interest in AI and distributed systems ✨</p>
+
+###
+
+<h2 align="left">I code with</h2>
 
 ###
 
@@ -13,20 +37,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
+
+
 ###
 
-<div align="left">
-  <img src="www.linkedin.com/in/stefani-pires-marcelino-5b86632b2" width="52" height="40" alt="linkedin logo"  />
-  <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg](https://instagram.com/stefani_pires.m)" width="52" height="40" alt="instagram logo"  />
-  <img src="mailto:stefanipires.m@gmail.com" width="52" height="40" alt="gmail logo"  />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StefaniPm/StefaniPm/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StefaniPm/StefaniPm/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/StefaniPm/StefaniPm/output/pacman-contribution-graph.svg">
-</picture>
-
-
